@@ -1,0 +1,42 @@
+[
+    {
+        "nimi": "Jane Doe",
+        "ika": 100,
+        "harrastukset": []
+    },
+    {
+        "nimi": "Sanna Marin",
+        "ika": 38,
+        "harrastukset": [
+            "historia", "politiikka"
+        ]
+    },
+    {
+        "nimi": "Janja Garnbret",
+        "ika": 21,
+        "harrastukset": [
+            "boulderointi", "kalliokiipeily"
+        ]
+    },
+    {
+        "nimi": "Adam Ondra",
+        "ika": 28,
+        "harrastukset": [
+            "boulderointi", "kalliokiipeily"
+        ]
+    },
+    {
+        "nimi": "Barack Obama",
+        "ika": 62,
+        "harrastukset": [
+            "politiikka", "musiikki"
+        ]
+    },
+    {
+        "nimi": "Elisabeth Rehn",
+        "ika": 78,
+        "harrastukset": [
+            "maanpuolustus", "musiikki"
+        ]
+    }
+]

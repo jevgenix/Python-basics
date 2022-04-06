@@ -1,0 +1,23 @@
+[
+    {
+        "nimi": "Ato Hellas",
+        "ika": 42,
+        "harrastukset": [
+            "karate"
+        ]
+    },
+    {
+        "nimi": "Lea Kutvonen",
+        "ika": 52,
+        "harrastukset": [
+            "juoksu", "kamppailulajit"
+        ]
+    },
+    {
+        "nimi": "Leevi Hellas",
+        "ika": 4,
+        "harrastukset": [
+            "palapelit"
+        ]
+    }
+]

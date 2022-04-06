@@ -1,0 +1,2 @@
+nimi: Ohjelmoinnin perusteet
+laajuus opintopisteina: 5

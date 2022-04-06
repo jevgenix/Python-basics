@@ -1,0 +1,40 @@
+[
+    {
+        "nimi": "Matti Virtanen",
+        "ika": 78,
+        "harrastukset": [
+            "lukeminen", 
+            "juoksu"
+        ]
+    },
+    {
+        "nimi": "Antti Laaksonen",
+        "ika": 32,
+        "harrastukset": [
+            "algoritmit", 
+            "alttoviulu"
+        ]
+    },
+    {
+        "nimi": "Venla Ruuska",
+        "ika": 8,
+        "harrastukset": [
+            "parkour", 
+            "koripallo"
+        ]
+    },
+    {
+        "nimi": "Eero Luukkainen",
+        "ika": 8,
+        "harrastukset": [
+            "jalkapallo", "lentokoneet"
+        ]
+    },
+    {
+        "nimi": "Liisa Moilanen",
+        "ika": 46,
+        "harrastukset": [
+            "ohjelmointi", "penkkiurheilu"
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "nimi": "Pekka Pythonisti",
+        "ika": 27,
+        "harrastukset": [
+            "koodaus",
+            "kutominen"
+        ]
+    },
+    {
+        "nimi": "Jaana Javanainen",
+        "ika": 24,
+        "harrastukset": [
+            "koodaus",
+            "kalliokiipeily",
+            "lukeminen"
+        ]
+    }
+]

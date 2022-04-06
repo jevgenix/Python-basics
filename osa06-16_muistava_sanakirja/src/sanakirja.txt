@@ -1,0 +1,4 @@
+laukku - bag
+atuo - car
+roska - garbage
+joku - some
